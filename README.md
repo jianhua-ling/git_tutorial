@@ -1,3 +1,3 @@
 #Git teacher
 
-- feature-A
+- feature-B
