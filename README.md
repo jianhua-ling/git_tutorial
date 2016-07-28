@@ -1,3 +1,5 @@
 #Git teacher
 
-- feature-B
+
+- feature-A
+ - fix-B
